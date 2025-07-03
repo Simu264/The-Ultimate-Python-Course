@@ -1,0 +1,8 @@
+"metric","value"
+"Dataset Name","enhanced_sample_data.csv"
+"Total Rows","1000"
+"Total Columns","11"
+"Numerical Columns","7"
+"Categorical Columns","4"
+"Total Missing Values","40"
+"Missing Percentage","0.36%"

@@ -1,0 +1,19 @@
+"variable","category","count","percentage"
+"Education","Bachelor",393,39.3
+"Education","High School",281,28.1
+"Education","Master",207,20.7
+"Education","PhD",119,11.9
+"City","Chicago",175,17.5
+"City","Houston",228,22.8
+"City","Los Angeles",215,21.5
+"City","New York",190,19
+"City","Phoenix",192,19.2
+"Department","Engineering",210,21
+"Department","Finance",201,20.1
+"Department","HR",176,17.6
+"Department","Marketing",208,20.8
+"Department","Sales",205,20.5
+"Performance_Rating","Excellent",203,20.3
+"Performance_Rating","Fair",208,20.8
+"Performance_Rating","Good",501,50.1
+"Performance_Rating","Poor",88,8.8

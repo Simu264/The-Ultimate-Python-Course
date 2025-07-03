@@ -1,0 +1,26 @@
+# R Package Requirements for Comprehensive Data Analysis Script
+# Install these packages using: install.packages(c("package1", "package2", ...))
+
+# Core data manipulation and reading
+readr
+dplyr
+readxl
+
+# Visualization packages
+ggplot2
+corrplot
+GGally
+gridExtra
+scales
+RColorBrewer
+
+# Data reshaping and manipulation
+reshape2
+rlang
+
+# Reporting and documentation
+knitr
+DT
+
+# Additional utilities
+tools
